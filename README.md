@@ -16,7 +16,7 @@ Use the **Raw** links for websites, HTML email signatures, templates, and other 
 |---|---|---|---|---|
 | Icon | Light | Dark/colour | Add file | `https://raw.githubusercontent.com/Omega-Solutions-Canada/branding/main/logos/icon/Omega-Icon-Light.png` |
 | Icon | Dark | Light | Add file | `https://raw.githubusercontent.com/Omega-Solutions-Canada/branding/main/logos/icon/Omega-Icon-Dark.png` |
-| Rectangle | Light | Dark/colour | Add file | `https://raw.githubusercontent.com/Omega-Solutions-Canada/branding/main/logos/rectangle/Omega-Logo-Rectangle-Light.png` |
+| Rectangle | Light | Dark/colour | ![Omega Solutions logo](logos/rectangle/Omega-Logo-Rectangle-Light-Trans.png) | `https://raw.githubusercontent.com/Omega-Solutions-Canada/branding/main/logos/rectangle/Omega-Logo-Rectangle-Light-Trans.png` |
 | Rectangle | Dark | Light | Add file | `https://raw.githubusercontent.com/Omega-Solutions-Canada/branding/main/logos/rectangle/Omega-Logo-Rectangle-Dark.png` |
 | Email Signature | Standard | Transparent | Add file | `https://raw.githubusercontent.com/Omega-Solutions-Canada/branding/main/logos/signature/Omega-Logo-Signature.png` |
 
