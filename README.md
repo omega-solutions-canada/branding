@@ -30,6 +30,28 @@ Once the image files are uploaded, replace **Add file** in the Preview column wi
 
 For the standard email signature, use a transparent PNG optimized for display at approximately 180–250 pixels wide. Keep the original high-resolution file in `logos/source/`.
 
+## Email Banners
+
+Approved email banners are organized by campaign under `email-signatures/banners/`.
+
+| Banner | Preview | Direct Link |
+|---|---|---|
+| Managed IT | [Preview](email-signatures/banners/managed-it/Omega-Email-Banner-Managed-IT.png) | `https://raw.githubusercontent.com/Omega-Solutions-Canada/branding/main/email-signatures/banners/managed-it/Omega-Email-Banner-Managed-IT.png` |
+
+Use the direct link as the image source in email tools that accept a publicly hosted image. To make the banner's call to action clickable, link the image to the approved campaign landing page. Replace `YOUR-LANDING-PAGE-URL` with that page's URL:
+
+```html
+<a href="YOUR-LANDING-PAGE-URL">
+  <img
+    src="https://raw.githubusercontent.com/Omega-Solutions-Canada/branding/main/email-signatures/banners/managed-it/Omega-Email-Banner-Managed-IT.png"
+    alt="Omega Solutions Managed IT Services"
+    style="display:block; width:100%; max-width:2000px; height:auto; border:0;"
+  >
+</a>
+```
+
+Keep the banner at its original proportions, and do not modify its artwork or embedded text. Replace or remove banners only when an approved updated asset is published.
+
 ---
 
 ## Brand Colours
@@ -60,6 +82,10 @@ branding/
 │   └── headshots/
 │       ├── Josiah-Ledua.jpg
 │       └── README.md
+├── email-signatures/
+│   └── banners/
+│       └── managed-it/
+│           └── Omega-Email-Banner-Managed-IT.png
 ├── logos/
 │   ├── icon/
 │   │   ├── Omega-Icon-Light.png
