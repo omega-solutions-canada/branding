@@ -46,12 +46,20 @@ See [`fonts/font-references.md`](fonts/font-references.md).
 
 Link to official font sources whenever possible. Do not upload commercial or restricted font files unless Omega Solutions has confirmed that its licence permits public redistribution.
 
+## Staff Headshots
+
+Approved staff photos for public branding and email signatures are in [`staff/headshots/`](staff/headshots/). See its README for the public image URL and naming guidance.
+
 ---
 
 ## Repository Structure
 
 ```text
 branding/
+├── staff/
+│   └── headshots/
+│       ├── Josiah-Ledua.jpg
+│       └── README.md
 ├── logos/
 │   ├── icon/
 │   │   ├── Omega-Icon-Light.png
